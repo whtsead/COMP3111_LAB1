@@ -20,6 +20,7 @@ public class lab1 {
 		System.out.println(String.format("Sum of the number is %d", sum));
 		System.out.println(String.format("min of the number is %d", min));
 		System.out.println(String.format("max of the number is %d", max));
+		//44
 	}
 	
 }
